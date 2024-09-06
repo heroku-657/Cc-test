@@ -24,7 +24,7 @@ print(Z+"□■"*30)
 ascii_art = pyfiglet.figlet_format("   TEAM FN-NETWORK ")
 print(L+ ascii_art)
 print(F+"□■"*30)
-webbrowser.open('https://t.me/fn_network_back')
+#webbrowser.open('https://t.me/fn_network_back')
 print('\t\033[1;31m>>> Join Me Channel @fn_network_back ');
 print('\t\x1b[38;5;153m ElectraOp <--');
 o=("------------------------------------------------------------")
